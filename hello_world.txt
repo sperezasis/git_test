@@ -1,0 +1,3 @@
+This is my first file
+This is a test
+In the Odin project reads "Open hello_world.txt, add some text to it, save and stage it"
